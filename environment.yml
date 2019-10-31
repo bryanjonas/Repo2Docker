@@ -10,4 +10,4 @@ dependencies:
   - jupyterhub
   - jupyterlab-git
   - pip
-    - git+https://github.com/jupyterlab/jupyterlab-git
+    - https://github.com/jupyterlab/jupyterlab-git
