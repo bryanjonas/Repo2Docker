@@ -9,5 +9,6 @@ dependencies:
 #These two dependencies should always be included unless you have a particular reason to remove them.
   - jupyterhub
   - jupyterlab-git
+  - git
   - pip
-    - "git+https://github.com/jupyterlab/jupyterlab-git"
+    - git+https://github.com/jupyterlab/jupyterlab-git
