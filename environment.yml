@@ -10,5 +10,5 @@ dependencies:
   - jupyterhub
 #  - jupyterlab-git
   - git
-  - pip
+  - pip:
     - git+https://github.com/jupyterlab/jupyterlab-git.git
