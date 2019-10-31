@@ -11,4 +11,5 @@ dependencies:
   - jupyterlab-git
   - git
   - pip
+    - https://github.com/jupyterlab/jupyterlab-git.git
     - git+https://github.com/jupyterlab/jupyterlab-git.git
