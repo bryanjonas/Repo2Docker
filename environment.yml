@@ -11,4 +11,4 @@ dependencies:
   - jupyterlab-git
   - git
   - pip
-    - git+https://github.com/jupyterlab/jupyterlab-git
+    - "--editable=git+https://github.com/jupyterlab/jupyterlab-git"
