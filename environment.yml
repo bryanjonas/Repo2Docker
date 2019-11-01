@@ -7,7 +7,7 @@ channels:
   - conda-forge
 dependencies:
 #These two dependencies should always be included unless you have a particular reason to remove them.
-  - jupyterhub
+  - jupyterlab==1.2.0
 #  - jupyterlab-git
   - git
   - pip
