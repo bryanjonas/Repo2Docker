@@ -8,7 +8,6 @@ channels:
 dependencies:
 #These two dependencies should always be included unless you have a particular reason to remove them.
   - jupyterlab==1.2.0
-#  - jupyterlab-git
   - git
   - pip
   - pip:
