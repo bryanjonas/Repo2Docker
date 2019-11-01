@@ -3,7 +3,7 @@
 
 ##You should leave the following block of code in your repository to allow GitHub integration
 #Install jupyterlab-git from GitHub repo
-pip install git+https://github.com/jupyterlab/jupyterlab-git.git
+#pip install git+https://github.com/jupyterlab/jupyterlab-git.git
 #Since I installed jupyterlab-git, I wanted to rebuild jupyterlab so I run:
 jupyter lab build
 ##
